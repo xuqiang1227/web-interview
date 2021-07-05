@@ -1,0 +1,14 @@
+{
+  "title": "web前端面试题",
+  "author": "小翼",
+  "root": "./book",
+  "language": "zh-hans",
+  "links": {
+    "gitbook": false,
+    "sharing": {
+      "google": true,
+      "facebook": true,
+      "twitter": true
+    }
+  }
+}
